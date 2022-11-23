@@ -1,0 +1,11 @@
+{
+    "Student_info":
+    {
+        "name": "Munkhbadral",
+        "Age": 19,
+        "Occupation":"Data science",
+        "Degree":"Bachelor",
+        "level":"Sophomore"
+    }
+
+}
